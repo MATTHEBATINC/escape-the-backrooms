@@ -1,8 +1,0 @@
-{
-  "name": "escape-the-backrooms-online",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": { "start": "node server.js", "test": "node test.js" },
-  "engines": { "node": ">=20" },
-  "dependencies": { "ws": "^8.18.0" }
-}
